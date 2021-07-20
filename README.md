@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mdyousufh
+- 👋 Hi, I’m Md Yousuf Hossan
 - 👀 I’m interested in Java Technology
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on Java web based project
-- 📫 How to reach me .
+- 📫 https://www.linkedin.com/in/mdyousufh/
 
 <!---
 mdyousufh/mdyousufh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
