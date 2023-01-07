@@ -32,6 +32,7 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=hibernate" title="hibernate"  alt="hibernate" width="40" height="40"/>&nbsp;
  <img src="https://skillicons.dev/icons?i=eclipse,idea" title="eclipse"  alt="eclipse" width="40" height="40"/>&nbsp;
+ <img src="https://skillicons.dev/icons?i=idea" title="Idea"  alt="idea" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" title="Tomcat"  alt="Tomcat"
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
