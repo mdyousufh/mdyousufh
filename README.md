@@ -5,7 +5,7 @@
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=mdyousufh&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
@@ -32,7 +32,7 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=hibernate" title="hibernate"  alt="hibernate" width="40" height="40"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=eclipse" title="eclipse"  alt="eclipse" width="40" height="40"/>&nbsp;
- <img src="https://skillicons.dev/icons?i=idea" title="idea"  alt="idea" width="40" height="40"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=idea" title="idea"  alt="idea" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" title="Tomcat"  alt="Tomcat"
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
