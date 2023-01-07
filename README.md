@@ -22,12 +22,12 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=css"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=react" title="react" alt="react" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=java" title="java" alt="java" width="40" height="40"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=spring" title="spring" alt="spring" width="40" height="40"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=hibernate" title="hibernate"  alt="hibernate" width="40" height="40"/>&nbsp;
