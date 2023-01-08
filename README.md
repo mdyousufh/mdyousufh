@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA400?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode Badge"/>
   </a>
 <a href="https://codeforces.com/profile/mdyousufh">
-    <img src="https://img.shields.io/badge/LeetCode-FFA400?logo=codeforces&logoColor=white&style=for-the-badge" alt="Code Forces Badge"/>
+    <img src="https://img.shields.io/badge/codeforces-FFA400?logo=codeforces&logoColor=white&style=for-the-badge" alt="Code Forces Badge"/>
   </a>
   <a href="https://stackoverflow.com/users/12781075/md-yousuf-hossan">
     <img src="https://img.shields.io/badge/stackoverflow-F48225?logo=stackoverflow&logoColor=white&style=for-the-badge" alt="stackoverflow Badge"/>
