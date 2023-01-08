@@ -31,7 +31,6 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 - 🔭 I’m working as a Software Engineer intern and contributing to Java and Swing baesd applications.
 - ⚡ In my free time I solve problems on Different Online Judge,Learning DS & Algo and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Yousuf-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mdyousufh/)
 
 ---
 
