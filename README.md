@@ -29,8 +29,8 @@
 
 I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
 
-- 🔭 I’m working as a Software Engineer intern and contributing to Java and Swing baesd applications.
-- ⚡ In my free time I solve problems on Different Online Judge,Learning DS & Algo and read tech articles.
+- 🔭 I’m working as a Junior Software Engineer and contributing to Java and Swing based applications.
+- ⚡ In my free time I solve problems on Different Online Judge, Learning DS & Algo and read tech articles.
 
 ---
 
